@@ -100,7 +100,11 @@ Gender & Addiction Impact on Mental Health:
 - Among those considered addicted, mental health scores are lower across both genders, with females at 4.8 and males at 5.2.
 - Insight: Addiction to social media correlates with a noticeable decline in self-reported mental health, especially among females.
 
+
 Country-Level Highlights:
+
+![image](https://github.com/user-attachments/assets/5280c622-dafd-480e-abc9-fbdb613ea421)
+
 
 - Australia stands out with the highest average mental health score of 7.3, well above the global average of 5.6.
 
