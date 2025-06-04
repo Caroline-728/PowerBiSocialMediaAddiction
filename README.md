@@ -2,7 +2,9 @@
 Power bi report analysing social media usage and it's impact on students 
 
 Project Summary:
-"Education for All" commissioned a global student survey to explore how social media usage relates to mental health, academic performance, and sleep. This dashboard summarises key findings from a sample of 250 students across multiple countries. Users can filter the dashboard by country, gender, or academic level to explore trends in more detail.
+"Education for All" commissioned a global student survey to explore how social media usage relates to mental health, academic performance, and sleep. This dashboard summarises key findings from a sample of 250 students across multiple countries. Users can filter the dashboard by country, gender, or academic level to explore trends in more detail. The dashboard includes 3 pages and allows users to navigate between these pages using the icons on the left hand side of the report. 
+
+Please note: Students were asked to score themselves on whether or not they were addicted to social media. We've have assigned a score above 8 to mean "Addicted". Students who reported to have less than 6 hours sleep are considered to have "Low sleep". 
 
 The following questions were requested by stakeholders from education for all :
 
