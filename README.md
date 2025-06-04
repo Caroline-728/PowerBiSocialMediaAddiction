@@ -160,3 +160,8 @@ Recommendations:
 
 
 
+Academic and sleep insights:
+
+![image](https://github.com/user-attachments/assets/ec99015d-170a-4f54-82b0-4d0cf5276d29)
+
+
