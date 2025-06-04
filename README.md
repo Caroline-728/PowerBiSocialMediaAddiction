@@ -129,5 +129,34 @@ Usage Time vs. Mental Health:
 
 - Interpretation: Light to moderate use may not harm mental health, especially for females, but usage above 6 hours appears linked with a noticeable decline
 
+Key Observations:
+
+- Perceived addiction and actual usage don’t always align. For instance, students in the Netherlands may use social media heavily without viewing it as problematic, while other countries report addiction at lower usage levels.
+
+- Gender differences are notable, with females showing greater sensitivity to heavy usage in terms of mental health impact.
+
+- Cultural and environmental factors seem to influence both mental health outcomes and perception of addiction, as seen in countries like Australia and the Netherlands.
+
+Recommendations:
+
+- Awareness Campaigns:
+- Educate students on the signs of digital overuse and how it can impact mental wellbeing—even if they don’t perceive themselves as addicted.
+
+- Tailor messaging by gender, highlighting the heightened emotional impact seen among female students.
+
+- Targeted Interventions:
+- In countries like the UK, consider partnering with schools or mental health organizations to support student wellbeing.
+
+- Encourage use of social media monitoring tools or “digital detox” weeks for high-use students.
+
+- Redefine Addiction Criteria:
+- Explore revising how “addiction” is defined in future studies to better capture psychological and behavioural dependencies, beyond self-rated scales.
+
+- Country-Specific Deep Dives:
+- Conduct further qualitative research in standout countries like Australia and the Netherlands to identify protective factors and successful habits that could be modeled elsewhere.
+
+- Encourage Healthy Use Patterns:
+- Promote balance by supporting students in maintaining moderate usage (e.g., 3–5 hours/day), where mental health outcomes are comparatively better—particularly for females.
+
 
 
