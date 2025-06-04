@@ -64,7 +64,7 @@ After the 2022 peak, average use dropped to 3.9 hours/day by Q4 of the same year
 
 Key observations:
 
-•	The spike in Q2 2022 may align with specific global or academic events—e.g., exam stress, post-pandemic habits, or limited outdoor/social activities.
+•	The spike in Q2 2022 may align with specific global or academic events—e.g., exam stress 
 
 •	The decline after 2022 could reflect platform fatigue or academic pressures pushing students to limit screen time.
 
