@@ -114,8 +114,6 @@ Country-Level Highlights:
 
 - Despite high usage in some cases, only 13.3% of Australian students consider themselves addicted, lower than the global average of 18%.
 
-- Potential reason: Students in Australia may have healthier digital habits, better support systems, or more awareness around mindful usage.
-
 - Netherlands reports zero students self-identifying as addicted, despite some having high usage (8+ hours).
 
 - Mental health scores for high-use students remain moderate (5–6), suggesting perception of addiction may vary culturally or that students do not associate time spent with addiction.
@@ -152,18 +150,16 @@ Recommendations:
 - Tailor messaging by gender, highlighting the heightened emotional impact seen among female students.
 
 - Targeted Interventions:
-- In countries like the UK, consider partnering with schools or mental health organizations to support student wellbeing.
+- In countries like the UK, consider partnering with schools or mental health organisations to support student wellbeing.
 
-- Encourage use of social media monitoring tools or “digital detox” weeks for high-use students.
+- Encourage use of social media monitoring tools or “digital detox” weeks
 
 - Redefine Addiction Criteria:
 - Explore revising how “addiction” is defined in future studies to better capture psychological and behavioural dependencies, beyond self-rated scales.
 
 - Country-Specific Deep Dives:
-- Conduct further qualitative research in standout countries like Australia and the Netherlands to identify protective factors and successful habits that could be modeled elsewhere.
+- Conduct further qualitative research in standout countries like Australia and the Netherlands to identify successful habits that could be modeled elsewhere.
 
-- Encourage Healthy Use Patterns:
-- Promote balance by supporting students in maintaining moderate usage (e.g., 3–5 hours/day), where mental health outcomes are comparatively better—particularly for females.
 
 
 
