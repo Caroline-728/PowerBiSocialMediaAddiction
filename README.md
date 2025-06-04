@@ -70,12 +70,64 @@ Key observations:
 
 •	Facebook’s popularity suggests students may still rely on established platforms for communication, even while TikTok and YouTube grow in entertainment and content engagement.
 
+
+Recommendations:
+
+1.	Promote Healthy Digital Habits:
+
+- Use high-usage periods (e.g., Q2) as a trigger for targeted wellness campaigns and digital detox challenges.
+- Encourage students to track and reflect on their social media time via built-in app usage monitors or university-supported tools.
+- Link mental health resources with screen time guidance, particularly for students showing signs of high usage or addiction.
+
+4.	Enable Country-Specific Analysis:
+
+- Since behaviours vary across regions, empower schools or local partners to explore the dashboard using the Country filter, enabling localised action plans.
+
+
+
 Mental health and usage insights page:
 
 ![image](https://github.com/user-attachments/assets/6eb7e56e-02b7-4d66-9ea4-cc7458d105c9)
 
 
+This section explores the relationship between students’ mental health and their level of social media usage, with a breakdown by gender, country, and usage time.
+Key Observations:
 
+	Gender & Addiction Impact on Mental Health:
+
+- Among students not considered addicted, females report a slightly higher average mental health score (5.8) compared to males (5.5).
+- Among those considered addicted, mental health scores are lower across both genders, with females at 4.8 and males at 5.2.
+- Insight: Addiction to social media correlates with a noticeable decline in self-reported mental health, especially among females.
+
+Country-Level Highlights:
+
+- Australia stands out with the highest average mental health score of 7.3, well above the global average of 5.6.
+
+- Male students using social media more than 8 hours/day report a perfect score of 10, while females using it 3–5 hours/day report a high score of 8.3.
+
+- Despite high usage in some cases, only 13.3% of Australian students consider themselves addicted, lower than the global average of 18%.
+
+- Potential reason: Students in Australia may have healthier digital habits, better support systems, or more awareness around mindful usage.
+
+- Netherlands reports zero students self-identifying as addicted, despite some having high usage (8+ hours).
+
+- Mental health scores for high-use students remain moderate (5–6), suggesting perception of addiction may vary culturally or that students do not associate time spent with addiction.
+
+- Females in the Netherlands report a significantly higher average mental health score (7.8) compared to males (6.2).
+
+- The UK has the lowest average mental health score among all countries surveyed, which may merit deeper investigation into broader student wellbeing and social pressures. They have 22% addicted rate with an average mental health score of 4.2. Close behind the UK with low mental health scores are France and Denmark
+
+
+Usage Time vs. Mental Health:
+
+- Students using social media 0–2 hours daily have relatively balanced mental health scores (5.7–5.8).
+
+- Moderate users (3–5 hours/day) see a mixed impact:
+- Females: 6.3
+- Males: 5.4
+- Heavy users (6–7+ hours/day) show declining mental health, with scores dropping to a range of 5.0–5.5 for both genders.
+
+- Interpretation: Light to moderate use may not harm mental health, especially for females, but usage above 6 hours appears linked with a noticeable decline
 
 
 
