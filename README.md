@@ -75,13 +75,13 @@ Key observations:
 
 Recommendations:
 
-1.	Promote Healthy Digital Habits:
+-	Promote Healthy Digital Habits:
 
 - Use high-usage periods (e.g., Q2) as a trigger for targeted wellness campaigns and digital detox challenges.
 - Encourage students to track and reflect on their social media time via built-in app usage monitors or university-supported tools.
 - Link mental health resources with screen time guidance, particularly for students showing signs of high usage or addiction.
 
-4.	Enable Country-Specific Analysis:
+-	Enable Country-Specific Analysis:
 
 - Since behaviours vary across regions, empower schools or local partners to explore the dashboard using the Country filter, enabling localised action plans.
 
