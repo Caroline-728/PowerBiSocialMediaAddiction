@@ -93,7 +93,8 @@ Mental health and usage insights page:
 This section explores the relationship between students’ mental health and their level of social media usage, with a breakdown by gender, country, and usage time.
 Key Observations:
 
-	Gender & Addiction Impact on Mental Health:
+
+Gender & Addiction Impact on Mental Health:
 
 - Among students not considered addicted, females report a slightly higher average mental health score (5.8) compared to males (5.5).
 - Among those considered addicted, mental health scores are lower across both genders, with females at 4.8 and males at 5.2.
