@@ -23,6 +23,9 @@ The following questions were requested by stakeholders from education for all :
   -  What are the most used platforms?
   - Are certain platforms more associated with negative outcomes
 
+Overview dashboard:
+
+![image](https://github.com/user-attachments/assets/d097af5f-2814-4dd6-bc84-8dc6b3e92176)
 
 
 
