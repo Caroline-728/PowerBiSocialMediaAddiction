@@ -240,7 +240,11 @@ Addiction and sleep are both relevant to academic performance, but effects vary 
 Platform type matters — students using more visual or interactive platforms (like Instagram or TikTok) tend to sleep less.
 
 
+
+
 Recommendations:
+
+
 
 Discourage overuse: Educate students about the risks of 8+ hrs/day, where both sleep and mental wellbeing are most negatively affected.
 
