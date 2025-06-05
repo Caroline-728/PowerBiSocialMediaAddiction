@@ -169,6 +169,102 @@ Academic and sleep insights:
 ![image](https://github.com/user-attachments/assets/28357fc2-529b-468d-bb4b-a684e1d01e7d)
 
 
+Sleep duration trends: 
 
+•	Average sleep per night increases from the 0–2 hrs group up to the 6–7 hrs group (peaking at ~6.68 hrs).
+
+•	It then drops sharply in the 8+ hrs group (~6.32 hrs).
+
+•	This suggests that moderate use (6–7 hrs) may align with better sleep, while excessive use (8+ hrs) may negatively impact sleep duration.
+
+Mental Health Score Trends:
+
+•	Highest mental health scores are found in the lowest usage groups (0–2 hrs and 3–5 hrs).
+
+•	Scores decline steadily from the 3–5 hrs group onward.
+
+•	The lowest mental health scores are in the 8+ hrs group (around 5.4), which is below the global student average (5.6).
+
+ Key Observations:
+
+1.	Higher daily social media use appears to negatively impact both sleep and mental wellbeing.
+
+- Even students in the 6–7 hrs group (who sleep the most) report a noticeable drop in mental health.
+- At 8+ hrs, both sleep and mental health are significantly lower than any other group.
+
+2.	The healthiest balance appears to be in the 3–5 hrs group, where students report:
+
+- Stronger mental health (just under 5.8)
+- Almost the same amount of sleep as the highest sleep group (6.65 hrs)
+
+3.	Students in the 8+ hrs group are consistently showing signs of overuse-related strain.
+
+•	Sleep Disruption: Late-night scrolling and screen exposure may delay melatonin release, reducing sleep quantity and quality.
+
+•	Mental Fatigue: Overexposure to content — especially social comparisons or distressing news — may increase anxiety or reduce emotional resilience.
+
+
+
+
+
+Extremes in social media use appear less healthy:
+
+0–2 hrs group has less sleep and highest academic impact — which may point to underlying stress or stricter self-regulation due to academic pressure.
+
+8+ hrs users have poor sleep and lowest academic impact — which may suggest underreporting or reduced academic awareness.
+
+Academic impact self-reporting may not align with actual risk.
+
+The 8+ hrs group likely experiences real academic consequences (due to sleep and screen time), but may not perceive it or may normalise the impact.
+
+
+
+
+Low usage group (0–2 hrs):
+
+May represent high-achieving or anxious students who limit social media intentionally, but still feel academic pressure, which affects their sleep.
+
+High usage group (8+ hrs):
+
+Possibly disengaged or less academically motivated students — sleep is poor, but they underreport academic impact due to normalization or lack of awareness.
+
+There isn’t a sharp sleep gap between addicted vs. non-addicted students, but perceived academic impact tends to coincide with slightly less sleep, hinting at possible stress or study disruption.
+
+Some platforms — especially video-based ones like YouTube — seem to have less sleep impact compared to others like Instagram. This might relate to usage patterns (passive viewing vs. active scrolling or messaging).
+
+The academic impact of social media use is consistently high across countries, but it’s particularly prominent in South Africa and the UK. This could relate to local education pressures, online habits, or access to support systems.
+
+Addiction and sleep are both relevant to academic performance, but effects vary across student groups.
+
+Platform type matters — students using more visual or interactive platforms (like Instagram or TikTok) tend to sleep less.
+
+
+Recommendations:
+
+Discourage overuse: Educate students about the risks of 8+ hrs/day, where both sleep and mental wellbeing are most negatively affected.
+
+Implement digital wellbeing programs: Introduce or support tools that track screen time, suggest breaks, and set daily limits.
+
+Promote "digital curfews": Encourage putting away devices at least 1 hour before bedtime to support better sleep quality.
+
+Collaborate with schools to include sleep literacy in wellbeing or health curricula.
+
+Expand access to support services: Offer digital counseling, peer support groups, or partnerships with mental health NGOs — especially targeting schools with high usage rates.
+
+Don’t rely solely on self-reporting: Many students in the 8+ hrs group may not recognize or admit the academic impact — but the data shows clear links to poor sleep and lower engagement.
+
+Embed support across academic systems:
+
+Provide guidance sessions on balancing online time with study.
+
+Encourage time management and offline study habits.
+
+South Africa and the UK show higher academic impact. Prioritize targeted efforts in these countries, such as:
+
+Partnering with local education authorities to run awareness campaigns.
+
+Offering workshops in high-risk areas focused on digital balance and academic focus.
+
+Consider cultural and socioeconomic factors influencing digital habits in each country when designing interventions.
 
 
