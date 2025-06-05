@@ -166,7 +166,8 @@ Recommendations:
 Academic and sleep insights:
 
 
-![image](https://github.com/user-attachments/assets/28357fc2-529b-468d-bb4b-a684e1d01e7d)
+![image](https://github.com/user-attachments/assets/d8d10a48-df13-4c64-9190-34a6a46bfeed)
+
 
 
 Sleep duration trends: 
