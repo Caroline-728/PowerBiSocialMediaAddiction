@@ -2,9 +2,16 @@
 Power bi report analysing social media usage and it's impact on students 
 
 Project Summary:
+
 "Education for All" commissioned a global student survey to explore how social media usage relates to mental health, academic performance, and sleep. This dashboard summarises key findings from a sample of 250 students across multiple countries. Users can filter the dashboard by country, gender, or academic level to explore trends in more detail. The dashboard includes 3 pages and allows users to navigate between these pages using the icons on the left hand side of the report. 
 
 Please note: Students were asked to score themselves on whether or not they were addicted to social media. We've have assigned a score above 8 to mean "Addicted". Students who reported to have less than 6 hours sleep are considered to have "Low sleep". 
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+
+
 
 The following questions were requested by stakeholders from education for all :
 
@@ -24,6 +31,11 @@ The following questions were requested by stakeholders from education for all :
 5.	Platform Usage Trends
   -  What are the most used platforms?
   - Are certain platforms more associated with negative outcomes
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+
 
 Overview dashboard:
 
@@ -73,6 +85,9 @@ Key observations:
 •	Facebook’s popularity suggests students may still rely on established platforms for communication, even while TikTok and YouTube grow in entertainment and content engagement.
 
 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+
 Recommendations:
 
 -	Promote Healthy Digital Habits:
@@ -84,6 +99,10 @@ Recommendations:
 -	Enable Country-Specific Analysis:
 
 - Since behaviours vary across regions, empower schools or local partners to explore the dashboard using the Country filter, enabling localised action plans.
+
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
 
 
@@ -142,6 +161,12 @@ Key Observations:
 
 - Cultural and environmental factors seem to influence both mental health outcomes and perception of addiction, as seen in countries like Australia and the Netherlands.
 
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+
+
+
 Recommendations:
 
 - Awareness Campaigns:
@@ -160,6 +185,9 @@ Recommendations:
 - Country-Specific Deep Dives:
 - Conduct further qualitative research in standout countries like Australia and the Netherlands to identify successful habits that could be modeled elsewhere.
 
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
 
 
@@ -240,6 +268,9 @@ Addiction and sleep are both relevant to academic performance, but effects vary 
 Platform type matters — students using more visual or interactive platforms (like Instagram or TikTok) tend to sleep less.
 
 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+
 
 
 Recommendations:
@@ -275,4 +306,40 @@ Consider cultural and socioeconomic factors influencing digital habits in each c
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
+
+Project Process Overview:
+
+This report was created using Power BI, following a structured data analysis process:
+
+1. Power Query (Data Preparation)
+
+•	Cleaned and transformed raw data using Power Query Editor.
+•	Removed duplicate rows and error values.
+•	Standardised and formatted data types (e.g., dates, numbers, text).
+•	Added calculated columns to support further analysis (e.g., "Addicted", "Low Sleep!).
+
+
+2. Data Modelling
+
+•	Established logical relationships between tables (e.g. Students, Usage, Mental Health).
+
+
+3. DAX (Data Analysis Expressions)
+
+•	Created calculated measures such as:
+- % Addicted Students
+-	Average Daily Usage
+- Average Mental Health Score
+- Low Sleep %
+
+
+4. Data Visualisation & Reporting
+
+•	Designed an interactive report with 3 navigable pages:
+- Overview Dashboard
+- Mental Health & Usage
+- Academic & Sleep Insights
+
+•	Incorporated filter controls for gender, country, and academic level.
+•	Used custom icons for navigation and polished UI styling to ensure readability.
 
