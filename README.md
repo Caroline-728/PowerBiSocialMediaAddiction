@@ -273,9 +273,6 @@ Offering workshops in high-risk areas focused on digital balance and academic fo
 Consider cultural and socioeconomic factors influencing digital habits in each country when designing interventions.
 
 
-![Divider](https://raw.githubusercontent.com/username/repo/main/assets/divider.png)
-
-
-djjdjd
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
 
